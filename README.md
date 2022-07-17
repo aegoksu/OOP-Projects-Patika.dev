@@ -13,3 +13,6 @@ Bu sistemi tasvir eden Class (Sınıf) diyagramını çiziniz.
 Not : Sınıflara ait nitelik ve davranışların belirtilmesine gerek yoktur.
 
 ![Github](https://github.com/aegoksu/OOP-Projects-Patika.dev/blob/main/UniversityManagementSystem.png)
+
+
+### ZOO
